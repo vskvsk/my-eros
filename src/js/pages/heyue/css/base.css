@@ -1,0 +1,14 @@
+.c_9{color:#999;}
+.c_gold{color:#b3845b;}
+.iconfont{font-family:iconfont;}
+.t_right{text-align:right;}
+.t_left{text-align:left;}
+.j_l{justify-content: left;}
+.j_c{justify-content: center;}
+.j_r{justify-content: right;}
+.j_b{justify-content:space-between;}
+.j_a{justify-content: space-around;}
+.fd_r{flex-direction:row;}
+.fd_c{flex-direction:column;}
+.a_c{align-items:center;}
+.bg_red{background-color:#ff1313; padding-top:1px; padding-bottom:1px; padding-left:15px; padding-right:15px; border-radius:25px; color:#fff;}
