@@ -142,7 +142,7 @@
               columnCount:2,
               wList:[
                   {
-                      img:"http://static.heyuego.com/upload/image/201711/38e2f3f0-94fe-4ea9-b1a1-3c9025f029c5_medium.jpg",
+                      img:"http://static.heyuego.com/upload/image/201710/76879a61-217c-4438-8bf5-e98ace5a6a42_medium.jpg",
                       name:"华为荣耀Ascend G7",
                       desc:"一体化设计，尖端工艺",
                       price:"￥10800.00",
@@ -150,7 +150,7 @@
                       shop:"手机旗舰店"
                   },
                   {
-                      img:"http://static.heyuego.com/upload/image/201710/f49517c8-6ad4-432c-8d8d-3f33357b09bd_medium.jpg",
+                      img:"http://static.heyuego.com/upload/image/201711/e7eb4d51-361c-4f90-9bfc-7c1a29cfea97_medium.jpg",
                       name:"华为荣耀Ascend G7G7一体化设计，尖端工艺",
                       desc:"华为荣耀Ascend",
                       price:"￥10800.00",
@@ -158,7 +158,7 @@
                       shop:"手机旗舰店"
                   },
                   {
-                      img:"http://static.heyuego.com/upload/image/201711/38e2f3f0-94fe-4ea9-b1a1-3c9025f029c5_medium.jpg",
+                      img:"http://static.heyuego.com/upload/image/201710/3c8fefec-73ed-4374-ab86-808cfe193a6c_medium.jpg",
                       name:"华为荣耀Ascend G7华为荣耀Ascend G7",
                       desc:"一体化设计，尖端工艺",
                       price:"￥10800.00",
@@ -198,7 +198,7 @@
                       shop:"手机旗舰店"
                   },
                   {
-                      img:"http://static.heyuego.com/upload/image/201710/a523637c-346c-4889-a8eb-25f34757287d_medium.jpg",
+                      img:"http://static.heyuego.com/upload/image/201711/e7eb4d51-361c-4f90-9bfc-7c1a29cfea97_medium.jpg",
                       name:"华为荣耀Ascend G7",
                       desc:"一体化设计，尖端工艺",
                       price:"￥10800.00",
@@ -214,7 +214,7 @@
                       shop:"手机旗舰店"
                   },
                   {
-                      img:"http://static.heyuego.com/upload/image/201711/38e2f3f0-94fe-4ea9-b1a1-3c9025f029c5_medium.jpg",
+                      img:"http://static.heyuego.com/upload/image/201711/e7eb4d51-361c-4f90-9bfc-7c1a29cfea97_medium.jpg",
                       name:"华为荣耀Ascend G7",
                       desc:"一体化设计，尖端工艺",
                       price:"￥10800.00",
@@ -230,7 +230,7 @@
                       shop:"手机旗舰店"
                   },
                   {
-                      img:"http://static.heyuego.com/upload/image/201711/38e2f3f0-94fe-4ea9-b1a1-3c9025f029c5_medium.jpg",
+                      img:"http://static.heyuego.com/upload/image/201710/3c8fefec-73ed-4374-ab86-808cfe193a6c_medium.jpg",
                       name:"华为荣耀Ascend G7",
                       desc:"一体化设计，尖端工艺",
                       price:"￥10800.00",
@@ -246,7 +246,7 @@
                       shop:"手机旗舰店"
                   },
                   {
-                      img:"http://static.heyuego.com/upload/image/201710/f49517c8-6ad4-432c-8d8d-3f33357b09bd_medium.jpg",
+                      img:"http://static.heyuego.com/upload/image/201710/76879a61-217c-4438-8bf5-e98ace5a6a42_medium.jpg",
                       name:"华为荣耀Ascend G7华为荣耀Ascend G7",
                       desc:"华为荣耀Ascend G7一体化设计，尖端工艺华为荣耀Ascend G7一体化设计，尖端工艺",
                       price:"￥10800.00",
@@ -254,7 +254,7 @@
                       shop:"手机旗舰店"
                   },
                   {
-                      img:"http://static.heyuego.com/upload/image/201711/38e2f3f0-94fe-4ea9-b1a1-3c9025f029c5_medium.jpg",
+                      img:"http://static.heyuego.com/upload/image/201710/76879a61-217c-4438-8bf5-e98ace5a6a42_medium.jpg",
                       name:"华为荣耀Ascend G7",
                       desc:"一体化设计，尖端工艺",
                       price:"￥10800.00",
@@ -310,7 +310,7 @@
                       shop:"手机旗舰店"
                   },
                   {
-                      img:"http://static.heyuego.com/upload/image/201711/38e2f3f0-94fe-4ea9-b1a1-3c9025f029c5_medium.jpg",
+                      img:"http://static.heyuego.com/upload/image/201710/3c8fefec-73ed-4374-ab86-808cfe193a6c_medium.jpg",
                       name:"华为荣耀Ascend G7一体化设计，尖端工艺华为荣耀Ascend G7一体化设计，尖端工艺",
                       desc:"一体化设计，尖端工艺",
                       price:"￥10800.00",
@@ -358,7 +358,7 @@
                       shop:"手机旗舰店"
                   },
                   {
-                      img:"http://static.heyuego.com/upload/image/201711/38e2f3f0-94fe-4ea9-b1a1-3c9025f029c5_medium.jpg",
+                      img:"http://static.heyuego.com/upload/image/201710/76879a61-217c-4438-8bf5-e98ace5a6a42_medium.jpg",
                       name:"华为荣耀Ascend G7",
                       desc:"华为荣耀Ascend G7一体化设计，尖端工艺华为荣耀Ascend G7一体化设计，尖端工艺华为荣耀Ascend G7一体化设计，尖端工艺",
                       price:"￥10800.00",

@@ -1,6 +1,6 @@
 <template>
   <div class="wrapper">
-    <web src="http://m.ctrip.com/html5/" class="web" @pagestart="start" @pagefinish="finish"></web>
+    <web src="http://www.uf-club.com/static/yybg/yybg201711_wap.html" class="web" @pagestart="start" @pagefinish="finish"></web>
   </div>
 </template>
 <style scoped>
@@ -9,11 +9,8 @@
     justify-content:center;
   }
   .web{
-    width:740px;
-    height:1000px;
-    border-width:2px;
-    border-color:#0088fb;
-    border-style:solid;
+    width:750px;
+    height:1334px;
   }
 </style>
 <script>
@@ -21,7 +18,7 @@
     export default{
         data(){
             return{
-                src:"https://sina.cn/"
+                src:"http://heyuego.com/activity/luckeyTurntable"
             }
         },
         methods:{

@@ -1,5 +1,5 @@
 module.exports = {
-    "appName": "my-eros",
+    "appName": "HEYUE",
     "appBoard": "/config/index.js",
     // android 监听全局事件homeBack 如果为true 安卓端需要自行调用router.finish方法来关闭应用
     "androidIsListenHomeBack": "true",
@@ -11,7 +11,7 @@ module.exports = {
         "homePage": "/pages/heyue/index.js",
         "mediatorPage": "/mediator/index.js",
         "navBarColor": "#1b1a20",
-        "navItemColor": "#333"
+        "navItemColor": "#fff"
     },
     "url": {
         "request": "http://app.weex-eros.com",

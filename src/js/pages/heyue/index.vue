@@ -2,7 +2,7 @@
   <div class="index">
     <scroller>
     <slider class="slider" interval="4500" auto-play="true">
-      <div class="s-frame" v-for="img in imageList">
+      <div class="s-frame" v-for="img in imageList" @click="goWeb">
         <image class="s-image" resize="cover" :src="img.src"></image>
       </div>
       <indicator class="s-indicator"></indicator>
@@ -176,13 +176,13 @@
                                 item_title:"Salvatore Ferragamo【品牌直供】"
                             },
                             {
-                                item_img:"http://image.zoshow.com/upload/goods20170516/82264306/822643060001/g1_402_536.jpg",
+                                item_img:"http://static.heyuego.com/upload/image/201710/3c8fefec-73ed-4374-ab86-808cfe193a6c_medium.jpg",
                                 item_href:"proCont.js",
                                 item_price:"￥100.00",
                                 item_title:"Salvatore Ferragamo【品牌直供】"
                             },
                             {
-                                item_img:"http://image.zoshow.com/upload/goods20170516/82264266/822642660001/g1_402_536.jpg",
+                                item_img:"http://static.heyuego.com/upload/image/201711/e7eb4d51-361c-4f90-9bfc-7c1a29cfea97_medium.jpg",
                                 item_href:"proCont.js",
                                 item_price:"￥100.00",
                                 item_title:"Salvatore Ferragamo【品牌直供】"
@@ -191,11 +191,11 @@
                         ]
                     },
                     {
-                        tp_img:"http://heyuegou.oss-cn-shenzhen.aliyuncs.com/upload/image/201706/cb48ba51-8613-418f-a088-53f22f1b65df.jpg",
+                        tp_img:"http://heyuegou.oss-cn-shenzhen.aliyuncs.com/upload/image/201706/340e04dd-fc75-48d2-90df-294c75409323.jpg",
                         tp_href:"proList.js",
                         tp_list:[
                             {
-                                item_img:"http://hmtest.oss-cn-shenzhen.aliyuncs.com/upload/image/201708/9934b76e-4cf8-41db-8c90-4014a4602f62.jpg",
+                                item_img:"http://static.heyuego.com/upload/image/201711/e7eb4d51-361c-4f90-9bfc-7c1a29cfea97_medium.jpg",
                                 item_src:"proCont.js",
                                 item_price:"￥100.00",
                                 item_title:"Salvatore Ferragamo【品牌直供】"
@@ -222,7 +222,7 @@
                         ]
                     },
                     {
-                        tp_img:"http://heyuegou.oss-cn-shenzhen.aliyuncs.com/upload/image/201706/cb48ba51-8613-418f-a088-53f22f1b65df.jpg",
+                        tp_img:"http://heyuegou.oss-cn-shenzhen.aliyuncs.com/upload/image/201706/bd9eb14a-48ba-4e39-82a2-09974add582d.jpg",
                         tp_href:"proList.js",
                         tp_list:[
                             {
@@ -238,7 +238,7 @@
                                 item_title:"Salvatore Ferragamo【品牌直供】"
                             },
                             {
-                                item_img:"http://image.zoshow.com/upload/goods20170516/82264306/822643060001/g1_402_536.jpg",
+                                item_img:"http://static.heyuego.com/upload/image/201711/e7eb4d51-361c-4f90-9bfc-7c1a29cfea97_medium.jpg",
                                 item_src:"proCont.js",
                                 item_price:"￥100.00",
                                 item_title:"Salvatore Ferragamo【品牌直供】"
@@ -266,6 +266,11 @@
                 this.$router.open({
                     name:"heyue.proCont"
                 })
+            },
+            goWeb(){
+                this.$router.open({
+                    name:"heyue.web"
+                });
             }
         }
     }
