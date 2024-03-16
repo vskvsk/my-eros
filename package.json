@@ -6,11 +6,14 @@
     "keywords": [
         "weex"
     ],
-    "author": "Zero<a2192466@163.com>",
-    "license": "MIT",
     "dependencies": {
         "lodash": "^4.17.4",
-        "url-parse": "^1.1.9"
+        "url-parse": "^1.1.9",
+        "tdomjs":"^1.0.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/vskvsk/my-eros.git"
     },
     "devDependencies": {
         "babel-core": "^6.20.0",
